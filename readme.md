@@ -2,6 +2,8 @@
 
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/alexanderte.dainty-vscode.svg?style=flat-square) ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/alexanderte.dainty-vscode.svg?style=flat-square) ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/stars/alexanderte.dainty-vscode.svg?style=flat-square)
 
+**This project is currently not maintained. If you would like to maintain it, please email me at ateinum@gmail.com. —Alexander**
+
 Dainty is a **color theme generator** with support for **Visual Studio Code**. It comes with default presets **Dainty Dark** and **Dainty Light** as well as **popular color themes** as its presets.
 
 Dainty keeps most of the token colors of the original themes, but the workbench and UI elements such as selections and shadows are rebuilt for a **sleek and minimal appearance**.
